@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_STDPERIPH_DRIVER",
+                "STM32F10X_LD",
+                "HSE_VALUE=8000000"
+
+            ],
+            
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
